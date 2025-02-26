@@ -10,6 +10,7 @@ In programing journey I have been on and off developer but tech keeps bringing i
 * 🖥️  See my portfolio at [https://www.youtube.com/watch?v=\_7m6MJkb74k](http://https://www.youtube.com/watch?v=_7m6MJkb74k)
 * ✉️  You can contact me at [dominicnjorogedr@gmail.com](mailto:dominicnjorogedr@gmail.com)
 * 🧠  I'm learning Visual studio, Web dev computer programming fundamentals
+* Sample Mobile App (Amazon Kenya App) https://appsgeyser.com/dashboard/
 * 🤝  I'm open to collaborating on Projects, CGR animations, Simulations and Comsol-multiphysics proj
 * ⚡  I am Whistling Quantum Bumble bee
 
