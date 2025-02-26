@@ -12,7 +12,7 @@ In programing journey I have been on and off developer but tech keeps bringing i
 * 🧠  I'm learning Visual studio, Web dev computer programming fundamentals
 * Sample Mobile App (Amazon Kenya App) https://appsgeyser.com/dashboard/
 * 🤝  I'm open to collaborating on Projects, CGR animations, Simulations and Comsol-multiphysics proj
-* ⚡  I am Whistling Quantum Bumble bee
+* ⚡  I am Whistling Quantum Bumble bee.
 
 <a href="https://www.github.com/njorogedr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/njorogedr?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/DominicDonjoman" target="_blank" rel="noreferrer"><img
