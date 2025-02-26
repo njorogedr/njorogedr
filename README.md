@@ -2,7 +2,7 @@
 Hi! My name is Dr. Eng. Njoroge Dominic  :bowtie:
 ================================================================
 # What's Programming?
-Programming refers to a technological process for telling a computer which tasks to perform in order to solve problems. You can think of programming as a collaboration between humans and computers, in which humans create instructions for a computer to follow (code) in a language computers can understand.
+According to Google, Programming refers to a technological process for telling a computer which tasks to perform in order to solve problems. You can think of programming as a collaboration between humans and computers, in which humans create instructions for a computer to follow (code) in a language computers can understand.
 
 I am a self-made Full stack developer.
 --------------------------------------
