@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dr. Eng. Njoroge Dominic
 ================================================================================================================================================
 
-I a self made Full stack developer
+I am a self-made Full stack developer.
 ----------------------------------
 
 In programing journey i have been on and off developer but tech keeps bringing in challenges and pushing me to resume. Back in 2009 I began with Alison CS50 havard made short course intro to comp sci, i got introduced to python, cmd, Visual studio.net, the MIT introduced me to MIT companion where i made some apps, I got into App geysers.com and made an app like whatsapp called SGR chat app, but i dint have money to upload it to playstore but i believe i will this year by God's help. I thank IYF academy i will embark on this journey of coding and build many apps. I am looking forward to embark on Oracle Database Developer journey. I also learnt about web development tools like html4 and 5 (on going), with 3w schools helped me learn JAva, and javascript, hoping to learn more like php, and CSS inter aliases to finally crown my development skills. I also thank Duke university coutessy of Ajira for teaching me about Alice 3 animation and programming skills to create some cartoon animations
