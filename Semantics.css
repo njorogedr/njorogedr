@@ -1,0 +1,24 @@
+/* Element selector styles all elements of this type */
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 1.9;
+    max-width: 800px;
+    margin: auto;
+    padding: 30px;
+    background-color: blueviolet;
+}
+/* Heading selecstors */
+h1 {
+    color: aquamarine;
+    text-align: center;
+    border-bottom: 10px;
+    padding-bottom: 10px;
+    
+}
+h2 {
+    color: chocolate;
+}
+/* section selector */
+section id {
+    color: darkgoldenrod;
+}
